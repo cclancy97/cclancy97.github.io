@@ -158,12 +158,12 @@
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #00fbeb;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #00fbeb !important;
 }
 
 .about-section {
