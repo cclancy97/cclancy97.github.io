@@ -3,7 +3,6 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
-
 #mainNav {
   min-height: 56px;
   background-color: #fff;
@@ -184,7 +183,9 @@
 .projects-section .featured-text {
   padding: 2rem;
 }
-
+#skills {
+  justify-content: space-between;
+}
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
